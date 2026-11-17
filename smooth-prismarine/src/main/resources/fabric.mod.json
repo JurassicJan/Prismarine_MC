@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"id": "smoothprismarine",
+	"version": "${version}",
+	"name": "Smooth Prismarine",
+	"description": "Fuegt Smooth Prismarine und Smooth Dark Prismarine hinzu. Herstellbar im Ofen und im Steinschneider.",
+	"authors": ["Jan"],
+	"license": "MIT",
+	"icon": "assets/smoothprismarine/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.example.smoothprismarine.SmoothPrismarine"]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
