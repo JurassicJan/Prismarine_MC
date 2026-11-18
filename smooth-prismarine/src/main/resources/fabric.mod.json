@@ -12,7 +12,7 @@
 		"main": ["com.example.smoothprismarine.SmoothPrismarine"]
 	},
 	"depends": {
-		"fabricloader": ">=0.19.5",
+		"fabricloader": ">=0.17.0",
 		"minecraft": "~26.3",
 		"java": ">=25",
 		"fabric-api": "*"
