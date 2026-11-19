@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"key": {
+		"#": "smoothprismarine:smooth_prismarine"
+	},
+	"pattern": [
+		"#  ",
+		"## ",
+		"###"
+	],
+	"result": {
+		"id": "smoothprismarine:smooth_prismarine_stairs",
+		"count": 4
+	}
+}

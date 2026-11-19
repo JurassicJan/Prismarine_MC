@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": "smoothprismarine:smooth_prismarine",
+	"result": {
+		"id": "smoothprismarine:smooth_prismarine_slab",
+		"count": 2
+	}
+}

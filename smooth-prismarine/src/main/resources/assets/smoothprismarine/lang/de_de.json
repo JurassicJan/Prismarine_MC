@@ -1,4 +1,10 @@
 {
 	"block.smoothprismarine.smooth_prismarine": "Glatter Prismarin",
-	"block.smoothprismarine.smooth_dark_prismarine": "Glatter dunkler Prismarin"
+	"block.smoothprismarine.smooth_dark_prismarine": "Glatter dunkler Prismarin",
+	"block.smoothprismarine.smooth_prismarine_stairs": "Glatte Prismarintreppe",
+	"block.smoothprismarine.smooth_prismarine_slab": "Glatte Prismarinstufe",
+	"block.smoothprismarine.smooth_prismarine_wall": "Glatte Prismarinmauer",
+	"block.smoothprismarine.smooth_dark_prismarine_stairs": "Glatte dunkle Prismarintreppe",
+	"block.smoothprismarine.smooth_dark_prismarine_slab": "Glatte dunkle Prismarinstufe",
+	"block.smoothprismarine.smooth_dark_prismarine_wall": "Glatte dunkle Prismarinmauer"
 }

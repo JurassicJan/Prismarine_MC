@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/inner_stairs",
+	"textures": {
+		"bottom": "smoothprismarine:block/smooth_dark_prismarine",
+		"top": "smoothprismarine:block/smooth_dark_prismarine",
+		"side": "smoothprismarine:block/smooth_dark_prismarine"
+	}
+}

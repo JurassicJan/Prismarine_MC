@@ -2,6 +2,12 @@
 	"replace": false,
 	"values": [
 		"smoothprismarine:smooth_prismarine",
-		"smoothprismarine:smooth_dark_prismarine"
+		"smoothprismarine:smooth_dark_prismarine",
+		"smoothprismarine:smooth_prismarine_stairs",
+		"smoothprismarine:smooth_prismarine_slab",
+		"smoothprismarine:smooth_prismarine_wall",
+		"smoothprismarine:smooth_dark_prismarine_stairs",
+		"smoothprismarine:smooth_dark_prismarine_slab",
+		"smoothprismarine:smooth_dark_prismarine_wall"
 	]
 }

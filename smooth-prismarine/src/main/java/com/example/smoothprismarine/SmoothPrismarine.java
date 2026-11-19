@@ -15,12 +15,18 @@ public class SmoothPrismarine implements ModInitializer {
 	public void onInitialize() {
 		ModBlocks.init();
 
-		// Im Kreativmenue direkt nach Dark Prismarine einsortieren.
+		// Im Kreativmenue hinter die Prismarin-Mauer einsortieren.
 		CreativeModeTabEvents.modifyOutputEvent(CreativeModeTabs.BUILDING_BLOCKS).register(output ->
 			output.insertAfter(
-				Items.DARK_PRISMARINE,
+				Items.PRISMARINE_WALL,
 				ModBlocks.SMOOTH_PRISMARINE,
-				ModBlocks.SMOOTH_DARK_PRISMARINE
+				ModBlocks.SMOOTH_PRISMARINE_STAIRS,
+				ModBlocks.SMOOTH_PRISMARINE_SLAB,
+				ModBlocks.SMOOTH_PRISMARINE_WALL,
+				ModBlocks.SMOOTH_DARK_PRISMARINE,
+				ModBlocks.SMOOTH_DARK_PRISMARINE_STAIRS,
+				ModBlocks.SMOOTH_DARK_PRISMARINE_SLAB,
+				ModBlocks.SMOOTH_DARK_PRISMARINE_WALL
 			)
 		);
 

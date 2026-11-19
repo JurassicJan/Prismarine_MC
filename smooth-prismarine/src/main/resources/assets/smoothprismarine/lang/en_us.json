@@ -1,4 +1,10 @@
 {
 	"block.smoothprismarine.smooth_prismarine": "Smooth Prismarine",
-	"block.smoothprismarine.smooth_dark_prismarine": "Smooth Dark Prismarine"
+	"block.smoothprismarine.smooth_dark_prismarine": "Smooth Dark Prismarine",
+	"block.smoothprismarine.smooth_prismarine_stairs": "Smooth Prismarine Stairs",
+	"block.smoothprismarine.smooth_prismarine_slab": "Smooth Prismarine Slab",
+	"block.smoothprismarine.smooth_prismarine_wall": "Smooth Prismarine Wall",
+	"block.smoothprismarine.smooth_dark_prismarine_stairs": "Smooth Dark Prismarine Stairs",
+	"block.smoothprismarine.smooth_dark_prismarine_slab": "Smooth Dark Prismarine Slab",
+	"block.smoothprismarine.smooth_dark_prismarine_wall": "Smooth Dark Prismarine Wall"
 }

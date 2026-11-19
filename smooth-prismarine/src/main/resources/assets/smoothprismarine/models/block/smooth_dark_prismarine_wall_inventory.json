@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/wall_inventory",
+	"textures": {
+		"wall": "smoothprismarine:block/smooth_dark_prismarine"
+	}
+}

@@ -12,6 +12,13 @@ Fügt zwei Blöcke hinzu:
 | Smooth Prismarine | Prismarine | Prismarine oder Prismarine Bricks |
 | Smooth Dark Prismarine | Dark Prismarine | Dark Prismarine |
 
+## Treppen, Stufen und Mauern
+
+Zu beiden Blöcken gibt es Treppe (Stairs), Stufe (Slab) und Mauer (Wall).
+
+- Werkbank: Treppe 6 Blöcke → 4, Stufe 3 Blöcke → 6, Mauer 6 Blöcke → 6.
+- Steinschneider: aus dem glatten Block oder direkt aus Prismarine / Dark Prismarine (Treppe 1:1, Stufe 1:2, Mauer 1:1).
+
 ## Bauen
 
 Voraussetzungen: **JDK 25**, Gradle (Version passend zu Loom 1.17, 9.x).
